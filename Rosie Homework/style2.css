@@ -1,0 +1,9 @@
+.col-5 {
+       max-width: 20%;
+       }
+
+.marginpadding {
+        padding: 100px;
+        margin: 100px;
+        border: 10px solid black;
+        }

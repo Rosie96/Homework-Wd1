@@ -1,0 +1,77 @@
+.menuitem {
+    float: right;
+    margin: 20px;
+    }
+
+.header {
+      padding: 300px;
+      background-image: url("Bilder/Startseite_Bild.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      }
+
+.logo {
+      background-image: url("Logo.png");
+      background-size: 60px;
+      position: top;
+      }
+
+.title {
+      font-size: 100px;
+      text-align: center;
+      color: white;
+      display: block;
+      top: 200px;
+      left: 0;
+      width: 100%;
+}
+
+.subtitle {
+      font-size: 30px;
+      text-align: center;
+      color: white;
+      display: block;
+      top: 200px;
+      left: 0;
+      width: 100%;
+}
+.h1  {
+      text-align: center;
+      color: grey;
+      margin: 40px 40px 0 40px;
+      padding: 60px black;
+      }
+
+.h3 {
+      text-align: center;
+      color: grey;
+      }
+
+.homestays {
+      padding: 100px;
+      display: flex;
+      flex-direction: row;
+      }
+
+.examplehomestay {
+       padding: 40px;
+       margin: 20px
+       border-style: solid;
+       border-color: grey;
+       }
+
+.examplecountry {
+       margin: auto;
+       }
+
+.countries {
+      padding: 120px;
+      display: flex;
+      flex-direction: row;
+      }
+
+.footer {
+       padding: 50px;
+       background: grey;
+       text-align: center;
+       }
